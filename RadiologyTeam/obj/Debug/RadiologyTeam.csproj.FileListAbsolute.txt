@@ -1,0 +1,2 @@
+D:\Ananth\Consume Web API in Winform for File Handling\C#\RadiologyTeam\obj\Debug\RadiologyTeam.csprojAssemblyReference.cache
+D:\Ananth\Consume Web API in Winform for File Handling\C#\RadiologyTeam\obj\Debug\RadiologyTeam.csproj.CoreCompileInputs.cache
